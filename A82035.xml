@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration against anabaptists: to stop the prosecution fo [sic] their errours, falsly pretended to be a vindication of the royall commission of King Jesus, as they call it. Briefly and fully answering all their allegations, and clearly proving the anabaptisticall doctrine to be against the glory of God, the honour of Christ and his church, against the covenant of grace, and against the word of God, and the priviledges of the church made over to them by promise, and also against the solemne league and covenant of the three kingdomes. In answer to a book, by Francis Cornwall, presented to the House of Commons, on Friday last, for which he is committed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82035</idno>
+            <idno type="STC">Wing D520</idno>
+            <idno type="STC">Thomason E12_9</idno>
+            <idno type="STC">ESTC R4990</idno>
+            <idno type="EEBO-CITATION">99872763</idno>
+            <idno type="PROQUEST">99872763</idno>
+            <idno type="VID">125209</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82035)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125209)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E12[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration against anabaptists: to stop the prosecution fo [sic] their errours, falsly pretended to be a vindication of the royall commission of King Jesus, as they call it. Briefly and fully answering all their allegations, and clearly proving the anabaptisticall doctrine to be against the glory of God, the honour of Christ and his church, against the covenant of grace, and against the word of God, and the priviledges of the church made over to them by promise, and also against the solemne league and covenant of the three kingdomes. In answer to a book, by Francis Cornwall, presented to the House of Commons, on Friday last, for which he is committed.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob. 9th".</note>
+                  <note>"Imprimatur, Ja: Cranford."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cornwell, Francis. --  Vindication of the royall commission of King Jesus.</term>
+               <term>Anabaptists --  England --  Early works to 1800.</term>
+               <term>Anabaptists --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125209:1" rendition="simple:additions"/>
+            <p>A DECLARATION AGAINST Anabaptiſts: To ſtop the Proſecution fo their Errours, falſly pretended to be a Vindication of the Royall Commiſsion of KING JESUS, as they call it.</p>
+            <p>Briefly and fully anſwering all their Allegations, and clearly proving the Anabaptiſticall Doctrine to be againſt the glo<g ref="char:EOLhyphen"/>ry of God, the honour of Chriſt and his Church, againſt the Covenant of grace, and againſt the word of God, and the priviledges of the Church made over to them by promiſe; And alſo againſt the Solemne League and Covenant of the three Kingdomes.</p>
+            <p>In Anſwer to a book, by <hi>Francis Cornwall</hi> preſented to the houſe of Commons, on <hi>Friday</hi> laſt, for which he is committed.</p>
+            <q>
+               <bibl>Epheſ. 4.4, 5.</bibl>
+               <p>There is one Body, one Spirit, even as ye are called in one hope of your Calling, One Lord, one Faith, one Baptiſme.</p>
+            </q>
+            <q>
+               <bibl>Rom. 16.17, 18.</bibl>
+               <p>Now I beſeech you brethren, marke them which cauſe diviſions, and offences, contrary to the doctrine which yee have learned, and avoid them. For they that are ſuch ſerve not our Lord Jeſus, but their own belly, and by good words, and faire ſpeeches, deceive the hearts of the ſimple.</p>
+            </q>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Ja: Cranford.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>Octob. 9<hi rend="sup">th</hi>
+               </add> London Printed for <hi>R. W.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125209:2"/>
+            <pb n="1" facs="tcp:125209:2"/>
+            <head>A DECLARATION againſt <hi>Anabaptiſts,</hi> to ſtop the proſecuti<g ref="char:EOLhyphen"/>tion of their errours, falſly pretended to be a vindication of the Royall Com<g ref="char:EOLhyphen"/>miſsion of KING JESUS, as they call it.</head>
+            <p>I Shall neither ſpend much time, nor waſt much Paper, in the anſwering of a Caſe ſo plaine: I ſhall paſſe by the circumſtances, and only gather what you, Maſter <hi>Francis Cornwall</hi> doth ſay for your ſelfe, and anſwer that breefly and fully.</p>
+            <p>I. You Argue thus: <hi>That which God hath joyned together no man ought to ſeperate: But Faith and Baptiſme (or more properly dipping) God hath joyned together: Therefore faith and Baptiſme (or dipping, as the ori<g ref="char:EOLhyphen"/>ginall renders it) no man ought to ſeperate.</hi>
+            </p>
+            <p>The Major is true Sir, but that helps you nothing, for I ſhall prove your Minor, and your Argument to be both falſe.</p>
+            <p n="1">1. That God hath not inſeperably joyned Faith, and Baptiſme toge<g ref="char:EOLhyphen"/>ther is very evident, and there is proofe enough for it, the Apoſtles were ſent to teach and Baptize all Nations, <hi>Matth.</hi> 28.19. but many have after fallen away and periſhed in unbeliefe. And on the contrary, many have gone to heaven that were never baptized, <hi>for we are all the Children of God by faith in Chriſt Jeſus,</hi> Gal. 3.26. And though a man be baptized, yet <hi>he that believeth not ſhall be damned,</hi> Mar. 16.16. All Chriſtians are not Saints, and no doubt there are many Saints that were never made Chriſtians.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:125209:3"/> 2. So that now you ſee this proves no Argument, and moreover were this granted, then by the ſame Argument none ought to be baptized untill they were able to caſt out Devils, and ſpeake with new tongues, for thoſe were the ſignes which Chriſt declared ſhould follow them that believe, <hi>Mar.</hi> 16.17. And if they object and ſay that the working of miracles are ceaſed: then may I very well anſwer, that for mens ſpirits to diſcerne, and know who are believers, and who not, that is alſo ceaſed.</p>
+            <p>In the next place, you quote the decree of Pope <hi>Innocentius</hi> the third, and the decree of <hi>Gregory, Lib.</hi> 3. <hi>Tit.</hi> 42. <hi>C.</hi> 3. out of Doctor <hi>Willets Synopſis,</hi> brought in by him to prove the lawfulneſſe of the baptizing of Infants now, as well as circumciſing Infants under the Judaicall Law, which you reprove and call the Doctrine of Antichriſt.</p>
+            <p>But let me tel you doctor <hi>Willet</hi> doth alledge better teſtimony then that, in the very ſame place; namely that children of beleevers are to be bapti<g ref="char:EOLhyphen"/>zed. 1. Becauſe they belong unto the Covenant, as it is, <hi>Gen.</hi> 17.7. I will be thy God, and the God of thy ſeed. 2. Becauſe they are called holy. 1 <hi>Cor.</hi> 7.14. Againe 3. Becauſe they are redeemed by the blood of Chriſt, who died for all the children of God. <hi>John</hi> 11.52. And to them belong the Kingdom of God, <hi>Mar.</hi> 10.4. And 4. Laſtly it is proved by the practiſe of the Apoſtles, who baptized whole families, with all perſons that there<g ref="char:EOLhyphen"/>unto belonged, <hi>Act.</hi> 16.33. and children are of the family, to this is added the teſtimony of divers learned men, beſides the forementioned, as <hi>Au<g ref="char:EOLhyphen"/>guſtine, Lib.</hi> 5. <hi>Cont. Pelag. Hypognoſtic. Gregory Nazianzen, Orat.</hi> 3. <hi>in ſanct. lavac.</hi> The confeſſion of <hi>Helvetia, Sect.</hi> 13. <hi>pag.</hi> 397. confeſſion of <hi>Bohemia, pag.</hi> 399. And in the <hi>Engliſh</hi> confeſſion Article 9. <hi>pag.</hi> 402. <hi>No not babes are not to be reſtrained</hi> (from Baptiſme) <hi>becauſe they pertaine to the people of God.</hi>
+            </p>
+            <p>Now for the Covenant in reſpect of the ſeales of circumciſion, and of Baptiſme, you and the reſt of your opinions are miſtaken in the maine thing of all, for the Covenant which was made to <hi>Abraham,</hi> of which the circumciſing of the fleſh was an outward Seale: its an everlaſting Cove<g ref="char:EOLhyphen"/>nant. <hi>Gen.</hi> 17.13. and circumciſion being taken away, becauſe Chriſt is come himſelf (the grace of God being the inward ſeale, as <hi>Calvin</hi> ſaith) and baptiſme a perpetuall ſupply thereof: <hi>Chriſiſtom, hom.</hi> 39. in <hi>Gen.</hi>
+            </p>
+            <p>But in regard of the Proteſtation you have taken, you ſay you oppoſe the baptizing of infants; and your firſt reaſon is, <hi>becauſe there was a precept from God to enjoyne circumciſion.</hi> Gen 17.11. <hi>and an example, Gen.</hi> 24.4. <hi>But neither precept nor example in Scripture, for baptizing of Infants.</hi>
+            </p>
+            <p>To anſwer this in the firſt place, I will give you a precept out of the Scripture where all both young and old are to bee baptized, and that is
+<pb n="3" facs="tcp:125209:3"/>
+               <hi>Act.</hi> 2.38, 39. <hi>Be baptized every one of you</hi> (ſaith <hi>Peter</hi> there) and let it be done <hi>in the name of Jeſus Chriſt,</hi> old and young, all were to be baptized, and if they did repent and were baptized, then (ſaith he) <hi>they ſhall receive the gift of the holy Ghoſt,</hi> and to encourage them (and in them us alſo) to baptize infants; he tells them, <hi>the promiſe is unto you, and to your children;</hi> yea, <hi>and to the children of thoſe that are afar off, even as many as the Lord our God ſhall call:</hi> And for that which you ſpeake of dipping, or ſprink<g ref="char:EOLhyphen"/>ling it much matters not, ſo there be the external element, which is water, <hi>Acts</hi> 10.47. And there is likewiſe an example, <hi>Acts</hi> 2. In the infancy of the Church, there were added to the Church in one day three thouſand ſouls, which received the outward Seale of Baptiſme, <hi>ver.</hi> 41. and all that believed were together, and had all things common, <hi>ver.</hi> 44. which was af<g ref="char:EOLhyphen"/>ter that the Apoſtle had declared to them, that the promiſe was to them, and their children, <hi>ver.</hi> 39. and therefore we muſt needs thinke that the children pertooke of the ſame priviledges with them.</p>
+            <p>Your ſecond reaſon is becauſe that there was <hi>a prefixt day for circum<g ref="char:EOLhyphen"/>ciſion, to wit the eight,</hi> Gen. 17.12. but no day appointed when it ſhall be dipped (or ſprinkled.)</p>
+            <p>To which I anſwer; That the place you mention, Gen. 17.12. is a command, that <hi>every ſon of eight dayes old ſhall be circumciſed,</hi> not that the command is abſolute for the eight day: For <hi>all the people that were borne in the wilderneſſe, by the way as they came forth out of Egypt, them they had not circumciſed,</hi> untill afterwards, Joſh. 5.5. when neceſſity urged Circumciſion muſt be deferred, as the eating of the Paſſeover might bee put off, Numb. 9.10.</p>
+            <p>But thirdly, you ſay, That <hi>there was a penalty impoſed</hi> on the uncircum<g ref="char:EOLhyphen"/>ciſed man-childe, Gen. 17.14. <hi>but not on thoſe that are not baptized, be<g ref="char:EOLhyphen"/>cauſe Election, and not Baptiſme,</hi> ſaveth the infant, Rom. 9.11.12.</p>
+            <p>To which I anſwer; That for the eight day there ſpoken of, it is uſed onely in the Septuagint, it is not in the Hebrew: and for the reſt, the words are, <hi>Qui non circumciderit,</hi> he which ſhall not circumciſe, &amp;c. So reades the Originall, the Calde Paraphraſt, <hi>Junius,</hi> &amp;c. which ſhew<g ref="char:EOLhyphen"/>eth, that it muſt be underſtood of them that are <hi>adulti,</hi> of yeares of diſ<g ref="char:EOLhyphen"/>cretion, not of infants. And for the puniſhment, What is it? Some take it for corporall death, ſome for the extraordinary ſhortening of their dayes, ſome for excommunication; and laſtly, others take it for the cut<g ref="char:EOLhyphen"/>ting off from the ſociety of Gods people now, and the fellowſhip of the Saints hereafter, for contemning Gods Ordinance of Circumciſion: And thus the Fathers of the Hebrews, having exhorted them to faith and a good conſcience, and to be baptized, <hi>Heb.</hi> 12.22. he told them, that if <hi>he that deſpiſed Moſes Law, died without mercy—of how much ſorer puniſh<g ref="char:EOLhyphen"/>ment
+<pb n="4" facs="tcp:125209:4"/>ſhall he then be thought worthy of,</hi> who contemning the Ordinance of God, whether Baptiſme, or other, <hi>hath troden under foot the Son of God, and counted the blood of the Covenant an unholy thing, and hath done deſpight unto the Spirit of Grace?</hi> I would have you that contemne Bap<g ref="char:EOLhyphen"/>tiſme to conſider this well: And as for infants, if they be not baptized, (as formerly thoſe that were not circumciſed) it is the parents fault for omitting it, not the infants, except the childe be come to diſcretion, as may appeare in the example of <hi>Moſes,</hi> whom the Lord puniſhed, and not the childe, for the neglecting of the Sacrament, <hi>Exod.</hi> 4.24.</p>
+            <p>II. To proceed: You argue thus: <hi>That which is not of faith is a ſin to the Church that doth it. But the baptizing of the infants of beleevers (as it is uſed) is not of faith. Ergo a ſin.</hi>
+            </p>
+            <p>Now the Clauſe which you bring in <hi>(as it is now uſed)</hi> you might have told us what circumſtances you meane: I doubt not, but ſomething will appeare ſuperſtitious in it, as the Croſſe in Baptiſme, which is now al<g ref="char:EOLhyphen"/>moſt left; and ſome other Ceremonies may be excepted againſt; ſo that I ſhall onely prove the baptizing of beleevers children to be of faith, in an<g ref="char:EOLhyphen"/>ſwer to this Argument; as may appear by that in the 19. of the <hi>Act.</hi> where <hi>Paul</hi> tells the Diſciples which he found at Epheſus, <hi>That John Baptized, ſaying to the people, that they ſhould beleeve on him that ſhould come after him, that is on Chriſt Jeſus, Acts</hi> 19.4. This was a command which he gave to them; and when they were baptized, they were very ignorant, for they had not learned to know whether there were an holy Ghoſt or not, <hi>verſ.</hi> 2. though afterwards <hi>Paul</hi> laid his hands on them, to declare, that they were baptized in the Name of the Lord Jeſus, and they recei<g ref="char:EOLhyphen"/>ved the holy Ghoſt, <hi>verſ.</hi> 6. And the children of beleeving parents are cleane by being ſo; and being of the holy ſeed, 1 <hi>Cor.</hi> 7.14. have right to (Baptiſme) the Ordinance of God thereby, <hi>Acts</hi> 16.33.</p>
+            <p>But to anſwer your Reaſons, as you call them, which are very unreaſo<g ref="char:EOLhyphen"/>nable ones, wherein I will be very briefe.</p>
+            <p n="1">1. You ſay, That <hi>Baptiſme of infants of beleevers, puts them into a ſta e of grace, and remiſſion of ſins before calling,</hi> when as your owne te<g ref="char:EOLhyphen"/>ſtimony is againſt you, and proves that Baptiſme hath no ſuch preroga<g ref="char:EOLhyphen"/>tive, for it is the Election of <hi>Gods owne purpoſe and grace before the world began, that puts us into a ſtate of Grace,</hi> which is manifeſted unto, and conferred upon ſome before Baptiſme, <hi>Act.</hi> 8.36, 37. and upon others af<g ref="char:EOLhyphen"/>ter Baptiſme, <hi>Act.</hi> 19.4. Baptiſme being the onely outward ſeale of the Church, and the Grace of Gods Spirit the inward ſeal, as is before proved.</p>
+            <p n="2">2. That it conſtitutes them viſible members of the Congregation, is true, and thoſe places alledged, 1 <hi>Pet.</hi> 2.9. <hi>Rom.</hi> 1.6, 7. and 1 <hi>Cor.</hi> 1.2. do not keep out the unbeleeving husbands of beleeving wives, nor the unbe<g ref="char:EOLhyphen"/>leeving
+<pb n="5" facs="tcp:125209:4"/>wives of beleeving husbands, nor their children from the Sacra<g ref="char:EOLhyphen"/>ments; for if they did, thoſe children would be uncleane indeed; but now are they holy, 1 <hi>Cor.</hi> 7.14.</p>
+            <p n="3.4.">3.4. Your third Reaſon is anſwered in the firſt, becauſe Baptiſme is but the outward ſeale; and your fourth Reaſon is very abſurd: for I for my part doubt not, but there will be care taken for the liberty of tender conſciences, ſo far as Gods word will beare and aſſiſt; that to be without order, is againſt <hi>Pauls</hi> rule; and where the powers ordained by God, appoint orders according to Gods word, I am ſure that <hi>Paul</hi> ſaith, to re<g ref="char:EOLhyphen"/>ſiſt ſuch power, is to reſiſt the Ordinance of God, <hi>Rom.</hi> 13.1, 2.</p>
+            <p n="5">5. Your next Reaſon is anſwered by what hath been ſaid already: Namely, that the Covenant of grace is the inward ſeale of Gods Elect, Baptiſme the outward ſeale of the viſible Church, whoſe members are not all elected, nor ſhall all be ſaved; for many fall away, and make a mock of Chriſt, <hi>Heb.</hi> 6.6. But thoſe who have the inward ſeale, that are baptized into Chriſt, whether Jew or Gentile, bond or free, they are heires of heaven, according to the promiſe, <hi>Gal.</hi> 3.27, 28, 29.</p>
+            <p n="6.7.8.">6.7.8. For your next Reaſon, it doth not at all follow; for none is ſo unwiſe to think that grace is entailed to generation, but regeneration; nei<g ref="char:EOLhyphen"/>ther doth it follow that all that are baptized are ſaved, the contrary being already proved. And God is able as well to give to infants an habit of faith, ſo far as to make them capable of aſcending to heaven if they die, as well as men and women: Therefore Chriſt tells us, that <hi>to ſuch belong the Kingdome of God, Mat.</hi> 19.14.</p>
+            <p n="9.10.">9.10. Your former Reaſons proving thus falſe; you ſee your diſcovery is nothing, but I have diſcovered your folly in theſe pretences: I have alſo proved that baptizing of infants is not againſt the Commiſſion of Chriſt, and how members of the Church, as diſcipled in Baptiſme, I ſhal ſhew by and by.</p>
+            <p n="11.12.13.14.">11.12.13.14. Your next reaſon is all one with the ſixt, and your twelfth with the tenth, ſo that I paſſe to your thirteenth reaſon, where you falſly draw theſe concluſions: either firſt, that all baptized perſons are ſaved, or Secondly, that ſome being in the ſtate of grace, may fall away afterwards, neither of which follow, becauſe baptiſme doth not conferre grace, as is al<g ref="char:EOLhyphen"/>ready proved, which is your fourteenth concluſion.</p>
+            <p n="15">15. That you ſay baptizing of infants oppoſeth the Kingly, and pro<g ref="char:EOLhyphen"/>pheticall office of Chriſt in faith and order, and to prove that, you alledge, <hi>Matth.</hi> 16.15. to make good that you ſay, that Chriſt requireth that every perſon that is baptized be a beleever: I anſwer, it is true Chriſt requires it, and before God the unbelievers have no right to thoſe Ordinances, nor is it effectuall to them whileſt they are ſo, yet becauſe men cannot diſtin<g ref="char:EOLhyphen"/>guiſh
+<pb facs="tcp:125209:5"/>believers from unbelievers, therefore as <hi>Matthew</hi> hath it, <hi>Mat.</hi> 28.19. Jeſus ſent his Apoſtles, and bade them, <hi>go ye</hi> (ſaith he) <hi>and teach all nations,</hi> or as you quoting the place, render <hi>diſciple the nations,</hi> or <hi>make diſciples;</hi> and how muſt that be done? baptizing them in the name of the Father, and of the Son, and of the holy Ghoſt: well, and when they are made, what muſt be done then? teach them, &amp;c. here is no oppoſition of this order you ſee.</p>
+            <p>III. In the next place you Argue thus: <hi>That conſequence which is up<g ref="char:EOLhyphen"/>held by the traditions of men, is deſtructive to the Nationall Covenant of</hi> England, <hi>and</hi> Scotland, <hi>raiſed by an Ordinance of Parliament. But bapti<g ref="char:EOLhyphen"/>zing of Infants is ſo held, Ergo diſtructive to the Nationall Covenant.</hi>
+            </p>
+            <p>As you have abuſed the Scripture to your one interpretation contrary to all judicious men; ſo do you go about to abuſe the Covenant of the three Kingdoms: firſt, the Covenant bindes to joyne with the Scots in the bap<g ref="char:EOLhyphen"/>tizing of infants, which you would not have done: 2. It bindes to joyne in reforming what is amiſſe in the manner of baptizing, you would take the Ordinance quite away: 3. It bindes to extirpate Schiſme, and whatſoever is contrary to ſound doctrine, which you would bring in: 4. You are bound to preſerve the liberties of the Kingdom; you would have the holy ſeed caſt out and looſe thoſe priviledges, which Chriſt hath purchaſed for them. 5. You are bound to diſcover ſuch as are ill inſtruments, by hindring the reformation of Religion, or making faction, and to bring them to publique tryall to receive condigne puniſhment, and you your ſelf are ſuch a one: 6. You are bound in your calling to labour for the peace of the Kingdom, and you go about to diſturb it, and give occaſion to honeſt men, that deſire ſome liberty of conſcience in lawfull things to be worſe thought on for you, and ſo whereas you ſhould be a help to them, you are an hurt and a ſcandall: and therefore examine your ſelf well, and try your ſelf by the Scripture, and by the Covenant, and Con it over, and over again, till you know what it is to make ſuch a Covenant in the preſence of Almighty God the ſearcher of all hearts, proteſting that you did it with a true intention to performe the ſame, as you ſhal anſwer at that great day, when the ſecrets of all hearts ſhall bee diſcloſed; oh how dangerous a thing it is to make a ſeame, and a rent in the Church of Chriſt, when the worke is a doing by ſuch wiſe maſter builders, and pray to God again, and again, moſt humbly beſeeching the Lord to ſtrengthen us by his holy ſpirit to do all things to his glorie, and to bleſſe their deſires, and proceedings with ſuch ſucceſſe as may be deliverance and ſafety to his people, and incouragement to other Chriſtian Churches, groaning under, or in danger of the yoke of Antichriſtian Tyranny, to joyne in the ſame, or like Aſſociation and Cove<g ref="char:EOLhyphen"/>nant, to the glory of God, the inlargement of the Kingdom of Jeſus Chriſt, and the peace and tranquility of Chriſtian Kingdoms, and Common wealths.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
